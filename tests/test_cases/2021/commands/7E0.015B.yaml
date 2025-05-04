@@ -20,6 +20,9 @@ test_cases:
 - response: 7EA03415BDF
   expected_values:
     BAT_SOC: 87.45098
+- response: 7EA03415BE9
+  expected_values:
+    BAT_SOC: 91.37255
 - response: 7EA03415BEA
   expected_values:
     BAT_SOC: 91.76471
