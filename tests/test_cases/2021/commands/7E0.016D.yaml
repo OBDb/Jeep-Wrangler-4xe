@@ -1,7 +1,21 @@
 command_id: 7E0.016D
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
+- response: |-
+    7E8100D416D12000000
+    7E8212B000000002B00
+  expected_values:
+    FRP_A: 430
+    FRP_A_CMD: 0
+    FRP_A_CMD_SUP: 0
+    FRP_A_SUP: 1
+    FRP_B: 430
+    FRP_B_CMD: 0
+    FRP_B_CMD_SUP: 0
+    FRP_B_SUP: 1
+    FRT_A: -40
+    FRT_A_SUP: 0
+    FRT_B: -40
+    FRT_B_SUP: 0
 - response: |-
     7E8100D416D12000002
     7E821FC00000002FD00
