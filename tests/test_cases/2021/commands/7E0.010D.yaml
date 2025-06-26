@@ -1,13 +1,18 @@
 command_id: 7E0.010D
 test_cases:
-- response: 7E803410D00
-  expected_values:
+- expected_values:
     VSS: 0
-- response: |-
+  response: 7E803410D00
+- expected_values:
+    VSS: 38
+  response: |-
     7E803410D26
     7E80562013B0400
-  expected_values:
-    VSS: 38
-- response: 7E803410D96
-  expected_values:
+- expected_values:
     VSS: 150
+  response: 7E803410D96
+- expected_values:
+    VSS: 7
+  response: |-
+    7E80762013A00002D08
+    7E803410D07
