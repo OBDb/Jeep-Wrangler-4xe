@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     FP: 489
   response: 7E803410AA3
+- expected_values:
+    FP: 510
+  response: 7E803410AAA
