@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.2204FE
+test_cases:
+- expected_values:
+    JEEP_ATF_T: 89.6
+  response: 7E9066204FE484749
+- expected_values:
+    JEEP_ATF_T: 105.8
+  response: 7E9066204FE515052
+- expected_values:
+    JEEP_ATF_T: 107.6
+  response: 7E9066204FE525052
+- expected_values:
+    JEEP_ATF_T: 109.4
+  response: 7E9066204FE535153
+- expected_values:
+    JEEP_ATF_T: 109.4
+  response: 7E9066204FE535253
+- expected_values:
+    JEEP_ATF_T: 113
+  response: 7E9066204FE555254
+- expected_values:
+    JEEP_ATF_T: 113
+  response: 7E9066204FE555355
+- expected_values:
+    JEEP_ATF_T: 113
+  response: 7E9066204FE555455
+- expected_values:
+    JEEP_ATF_T: 114.8
+  response: 7E9066204FE565456

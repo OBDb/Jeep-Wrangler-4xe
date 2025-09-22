@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.225503|fc=1
+test_cases:
+- expected_values:
+    JEEP_GEAR: NEUTRAL
+  response: '7E90762550300000000'
+- expected_values:
+    JEEP_GEAR: '2'
+  response: 7E90762550302032B00
+- expected_values:
+    JEEP_GEAR: '2'
+  response: 7E9076255030203FF00
+- expected_values:
+    JEEP_GEAR: '2'
+  response: 7E90762550302076F00
