@@ -5,7 +5,7 @@ test_cases:
   response: '7E90762550301035800'
 - expected_values:
     JEEP_GEAR: '2'
-  response: 7E9076255030203D300
+  response: 7E9076255030203A000
 - expected_values:
     JEEP_GEAR: '2'
   response: 7E9076255030203FB00
@@ -14,4 +14,4 @@ test_cases:
   response: '7E90762550302040500'
 - expected_values:
     JEEP_GEAR: '2'
-  response: 7E90762550302050A00
+  response: '7E90762550302050600'

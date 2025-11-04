@@ -8,7 +8,7 @@ test_cases:
 - expected_values:
     JEEP_GEAR_TARGET: '4'
   response: |-
-    7E9100A625504040B00
+    7E9100A625504040000
     7E92100000000AAAAAA
 - expected_values:
     JEEP_GEAR_TARGET: '4'
