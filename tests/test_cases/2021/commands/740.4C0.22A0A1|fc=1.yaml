@@ -1,0 +1,10 @@
+command_id: 740.4C0.22A0A1|fc=1
+test_cases:
+- expected_values:
+    JEEP_TP_FL_AC: 36
+    JEEP_TP_FR_AC: 36
+    JEEP_TP_RL_AC: 36
+    JEEP_TP_RR_AC: 36
+  response: |-
+    4C0100962A0A1242424
+    4C02124000FA1242424
