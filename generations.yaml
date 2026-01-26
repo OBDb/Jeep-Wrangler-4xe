@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Jeep_Wrangler_(JL)"
+
 generations:
   - name: "First Generation (JL)"
     start_year: 2021
