@@ -25,6 +25,14 @@ test_cases:
     4C0100962A0A1202020
     4C02120000FA1202020
 - expected_values:
+    JEEP_TP_FL_AC: 32
+    JEEP_TP_FR_AC: 32
+    JEEP_TP_RL_AC: 34
+    JEEP_TP_RR_AC: 32
+  response: |-
+    4C0100962A0A1202020
+    4C02122000FA1202020
+- expected_values:
     JEEP_TP_FL_AC: 33
     JEEP_TP_FR_AC: 32
     JEEP_TP_RL_AC: 34
