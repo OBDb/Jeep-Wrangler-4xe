@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     JEEP_ODO: 70426.624
   response: 7E80562043B2195
+- expected_values:
+    JEEP_ODO: 71090.176
+  response: 7E80562043B21E6
