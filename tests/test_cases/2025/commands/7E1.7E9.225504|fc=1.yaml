@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.225504|fc=1
+test_cases:
+- expected_values:
+    JEEP_GEAR_TARGET: '3'
+  response: |-
+    7E9100A62550403FF00
+    7E92100000000AAAAAA
