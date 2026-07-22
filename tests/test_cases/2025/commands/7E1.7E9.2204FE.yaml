@@ -4,8 +4,8 @@ test_cases:
     JEEP_ATF_T: 21
   response: 7E9066204FE3D3C3D
 - expected_values:
-    JEEP_ATF_T: 63
-  response: 7E9066204FE676565
+    JEEP_ATF_T: 89
+  response: 7E9066204FE818283
 - expected_values:
-    JEEP_ATF_T: 63
-  response: 7E9066204FE676566
+    JEEP_ATF_T: 90
+  response: 7E9066204FE828283
