@@ -4,20 +4,14 @@ test_cases:
     JEEP_GEAR: '1'
   response: '7E90762550301035000'
 - expected_values:
-    JEEP_GEAR: '1'
-  response: '7E90762550301035500'
-- expected_values:
-    JEEP_GEAR: '1'
-  response: '7E90762550301035700'
-- expected_values:
-    JEEP_GEAR: '1'
-  response: '7E90762550301035800'
-- expected_values:
     JEEP_GEAR: '2'
   response: '7E90762550302035500'
 - expected_values:
     JEEP_GEAR: '2'
-  response: '7E90762550302035800'
+  response: '7E90762550302050200'
 - expected_values:
     JEEP_GEAR: '2'
-  response: '7E90762550302036000'
+  response: 7E9076255030205E400
+- expected_values:
+    JEEP_GEAR: '2'
+  response: '7E90762550302066400'
