@@ -26,12 +26,12 @@ test_cases:
     4C02125000FA1252625
 - expected_values:
     JEEP_TP_FL_AC: 38
-    JEEP_TP_FR_AC: 37
-    JEEP_TP_RL_AC: 37
-    JEEP_TP_RR_AC: 37
+    JEEP_TP_FR_AC: 35
+    JEEP_TP_RL_AC: 38
+    JEEP_TP_RR_AC: 39
   response: |-
-    4C0100962A0A1262525
-    4C02125000EA1262525
+    4C0100962A0A1262327
+    4C02126000EA1262327
 - expected_values:
     JEEP_TP_FL_AC: 38
     JEEP_TP_FR_AC: 38
@@ -40,11 +40,3 @@ test_cases:
   response: |-
     4C0100962A0A1262626
     4C02127000DA1262626
-- expected_values:
-    JEEP_TP_FL_AC: 38
-    JEEP_TP_FR_AC: 38
-    JEEP_TP_RL_AC: 39
-    JEEP_TP_RR_AC: 39
-  response: |-
-    4C0100962A0A1262627
-    4C02127000EA1262627

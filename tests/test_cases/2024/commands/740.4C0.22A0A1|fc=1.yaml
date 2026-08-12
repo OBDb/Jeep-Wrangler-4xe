@@ -2,20 +2,12 @@ command_id: 740.4C0.22A0A1|fc=1
 test_cases:
 - expected_values:
     JEEP_TP_FL_AC: 34
-    JEEP_TP_FR_AC: 34
-    JEEP_TP_RL_AC: 36
-    JEEP_TP_RR_AC: 35
+    JEEP_TP_FR_AC: 33
+    JEEP_TP_RL_AC: 34
+    JEEP_TP_RR_AC: 34
   response: |-
-    4C0100962A0A1222223
-    4C02124000FA1222223
-- expected_values:
-    JEEP_TP_FL_AC: 35
-    JEEP_TP_FR_AC: 34
-    JEEP_TP_RL_AC: 35
-    JEEP_TP_RR_AC: 35
-  response: |-
-    4C0100962A0A1232223
-    4C02123000FA1232223
+    4C0100962A0A1222122
+    4C02122000FA1222122
 - expected_values:
     JEEP_TP_FL_AC: 39
     JEEP_TP_FR_AC: 38

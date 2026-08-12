@@ -3,6 +3,11 @@ test_cases:
 - expected_values:
     JEEP_GEAR_TARGET: '3'
   response: |-
+    7E9100A62550403E700
+    7E92100000000AAAAAA
+- expected_values:
+    JEEP_GEAR_TARGET: '3'
+  response: |-
     7E9100A62550403FF00
     7E92100000000AAAAAA
 - expected_values:
@@ -10,3 +15,33 @@ test_cases:
   response: |-
     7E9100A62550403FF00
     7E9210005D900AAAAAA
+- expected_values:
+    JEEP_GEAR_TARGET: '4'
+  response: |-
+    7E9100A625504043C00
+    7E92100000000AAAAAA
+- expected_values:
+    JEEP_GEAR_TARGET: '4'
+  response: |-
+    7E9100A625504044500
+    7E9210004A500AAAAAA
+- expected_values:
+    JEEP_GEAR_TARGET: '4'
+  response: |-
+    7E9100A625504044E00
+    7E9210004B200AAAAAA
+- expected_values:
+    JEEP_GEAR_TARGET: '4'
+  response: |-
+    7E9100A625504044E00
+    7E9210005DC00AAAAAA
+- expected_values:
+    JEEP_GEAR_TARGET: '4'
+  response: |-
+    7E9100A625504048800
+    7E92100000000AAAAAA
+- expected_values:
+    JEEP_GEAR_TARGET: '4'
+  response: |-
+    7E9100A62550404B900
+    7E92100000000AAAAAA

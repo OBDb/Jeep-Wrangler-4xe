@@ -4,26 +4,8 @@ test_cases:
     JEEP_ODO: 19759.104
   response: 7E80562043B096C
 - expected_values:
-    JEEP_ODO: 35348.48
-  response: 7E80562043B10DB
-- expected_values:
-    JEEP_ODO: 35381.248
-  response: 7E80562043B10DF
-- expected_values:
-    JEEP_ODO: 35389.44
-  response: 7E80562043B10E0
-- expected_values:
-    JEEP_ODO: 35446.784
-  response: 7E80562043B10E7
-- expected_values:
-    JEEP_ODO: 35569.664
-  response: 7E80562043B10F6
-- expected_values:
-    JEEP_ODO: 35577.856
-  response: 7E80562043B10F7
-- expected_values:
-    JEEP_ODO: 35586.048
-  response: 7E80562043B10F8
-- expected_values:
     JEEP_ODO: 35594.24
   response: 7E80562043B10F9
+- expected_values:
+    JEEP_ODO: 35758.08
+  response: 7E80562043B110D
