@@ -16,6 +16,11 @@ test_cases:
     7E9100A62550403FF00
     7E92100000000AAAAAA
 - expected_values:
+    JEEP_GEAR_TARGET: '3'
+  response: |-
+    7E9100A62550403FF00
+    7E92100057800AAAAAA
+- expected_values:
     JEEP_GEAR_TARGET: '4'
   response: |-
     7E9100A625504040000
@@ -23,13 +28,8 @@ test_cases:
 - expected_values:
     JEEP_GEAR_TARGET: '4'
   response: |-
-    7E9100A625504040B00
-    7E92100057800AAAAAA
-- expected_values:
-    JEEP_GEAR_TARGET: '4'
-  response: |-
-    7E9100A625504041300
-    7E92100044C00AAAAAA
+    7E9100A625504042100
+    7E92100042E00AAAAAA
 - expected_values:
     JEEP_GEAR_TARGET: '5'
   response: |-
