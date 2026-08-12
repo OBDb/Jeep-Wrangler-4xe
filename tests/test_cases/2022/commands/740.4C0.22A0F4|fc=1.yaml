@@ -62,10 +62,10 @@ test_cases:
     4C02100C35FF400A03F
 - expected_values:
     JEEP_TP_RL_V2: 0
-    JEEP_TT_RL_V2: 110
+    JEEP_TT_RL_V2: 114
   response: |-
-    4C0100962A0F400A055
-    4C0211A0B5FF400A055
+    4C0100962A0F400A457
+    4C02100515FF400A457
 - expected_values:
     JEEP_TP_RL_V2: 0
     JEEP_TT_RL_V2: 116
