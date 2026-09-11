@@ -4,8 +4,8 @@ test_cases:
     JEEP_ODO: 37355.52
   response: 7E80562043B11D0
 - expected_values:
-    JEEP_ODO: 37511.168
-  response: 7E80562043B11E3
+    JEEP_ODO: 37519.36
+  response: 7E80562043B11E4
 - expected_values:
     JEEP_ODO: 42311.68
   response: 7E80562043B142D
