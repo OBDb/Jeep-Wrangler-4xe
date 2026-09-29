@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2201A9
+test_cases:
+- expected_values:
+    JEEP_KNOCK_SENS_1: 0
+  response: 7E8056201A90000
+- expected_values:
+    JEEP_KNOCK_SENS_1: 0.49317
+  response: 7E8056201A91940
+- expected_values:
+    JEEP_KNOCK_SENS_1: 0.542
+  response: 7E8056201A91BC0
+- expected_values:
+    JEEP_KNOCK_SENS_1: 0.56641
+  response: 7E8056201A91D00
+- expected_values:
+    JEEP_KNOCK_SENS_1: 0.58106
+  response: 7E8056201A91DC0
+- expected_values:
+    JEEP_KNOCK_SENS_1: 0.58595
+  response: 7E8056201A91E00
+- expected_values:
+    JEEP_KNOCK_SENS_1: 0.67384
+  response: 7E8056201A92280

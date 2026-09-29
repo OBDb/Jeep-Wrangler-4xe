@@ -1,74 +1,98 @@
 command_id: 740.4C0.22A0F2|fc=1
 test_cases:
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 80
+    JEEP_TP_FR_F: 13
+    JEEP_TP_FR_V2: 32.5
+    JEEP_TT_FR_F: -37
+    JEEP_TT_FR_V2: 9
   response: |-
     4C0100962A0F200823B
     4C02100035DF200823B
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 80
+    JEEP_TP_FR_F: 13
+    JEEP_TP_FR_V2: 32.5
+    JEEP_TT_FR_F: 105
+    JEEP_TT_FR_V2: 9
   response: |-
     4C0100962A0F200823B
     4C02100915DF200823B
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 82
+    JEEP_TP_FR_F: 13.2
+    JEEP_TP_FR_V2: 33
+    JEEP_TT_FR_F: -29
+    JEEP_TT_FR_V2: 8
   response: |-
     4C0100962A0F200843A
     4C0210D0B5DF200843A
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 82
+    JEEP_TP_FR_F: 13.2
+    JEEP_TP_FR_V2: 33
+    JEEP_TT_FR_F: -29
+    JEEP_TT_FR_V2: 9
   response: |-
     4C0100962A0F200843B
     4C0210F0B5DF200843B
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 84
+    JEEP_TP_FR_F: 13.4
+    JEEP_TP_FR_V2: 33.5
+    JEEP_TT_FR_F: 41
+    JEEP_TT_FR_V2: 13
   response: |-
     4C0100962A0F200863F
     4C02100515DF200863F
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 86
+    JEEP_TP_FR_F: 13.6
+    JEEP_TP_FR_V2: 34
+    JEEP_TT_FR_F: 105
+    JEEP_TT_FR_V2: 14
   response: |-
     4C0100962A0F2008840
     4C02100915DF2008840
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 94
+    JEEP_TP_FR_F: 14.4
+    JEEP_TP_FR_V2: 36
+    JEEP_TT_FR_F: 105
+    JEEP_TT_FR_V2: 12
   response: |-
     4C0100962A0F200903E
     4C02100915DF200903E
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 100
+    JEEP_TP_FR_F: 15
+    JEEP_TP_FR_V2: 37.5
+    JEEP_TT_FR_F: -29
+    JEEP_TT_FR_V2: 23
   response: |-
     4C0100962A0F2009649
     4C021FF0B5DF2009649
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 108
+    JEEP_TP_FR_F: 15.8
+    JEEP_TP_FR_V2: 39.5
+    JEEP_TT_FR_F: -37
+    JEEP_TT_FR_V2: 30
   response: |-
     4C0100962A0F2009E50
     4C02100035DF2009E50
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 110
+    JEEP_TP_FR_F: 16
+    JEEP_TP_FR_V2: 40
+    JEEP_TT_FR_F: 155
+    JEEP_TT_FR_V2: 13
   response: |-
     4C0100962A0F200A03F
     4C02100C35DF200A03F
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 112
+    JEEP_TP_FR_F: 16.2
+    JEEP_TP_FR_V2: 40.5
+    JEEP_TT_FR_F: -37
+    JEEP_TT_FR_V2: 46
   response: |-
     4C0100962A0F200A260
     4C02100035DF200A260
 - expected_values:
-    JEEP_TP_FR_V2: 0
-    JEEP_TT_FR_V2: 116
+    JEEP_TP_FR_F: 16.6
+    JEEP_TP_FR_V2: 41.5
+    JEEP_TT_FR_F: -29
+    JEEP_TT_FR_V2: 37
   response: |-
     4C0100962A0F200A657
     4C021130B5DF200A657

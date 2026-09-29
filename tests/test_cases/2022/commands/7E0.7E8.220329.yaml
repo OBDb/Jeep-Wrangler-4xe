@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220329
+test_cases:
+- expected_values:
+    JEEP_AC_HIGH_SIDE_P: 0
+  response: '7E80462032900'

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221D89
+test_cases:
+- expected_values:
+    JEEP_FUEL_RAIL_P_TGT: 8.192
+  response: 7E805621D892000
+- expected_values:
+    JEEP_FUEL_RAIL_P_TGT: 12.591
+  response: 7E805621D89312F
+- expected_values:
+    JEEP_FUEL_RAIL_P_TGT: 14.16
+  response: 7E805621D893750
+- expected_values:
+    JEEP_FUEL_RAIL_P_TGT: 20.48
+  response: 7E805621D895000

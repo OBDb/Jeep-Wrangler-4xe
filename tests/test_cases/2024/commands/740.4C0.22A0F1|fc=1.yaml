@@ -1,68 +1,90 @@
 command_id: 740.4C0.22A0F1|fc=1
 test_cases:
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 98
+    JEEP_TP_FL_F: 14.8
+    JEEP_TP_FL_V2: 37
+    JEEP_TT_FL_F: 105
+    JEEP_TT_FL_V2: 26
   response: |-
     4C0100962A0F100944C
     4C02100915CF100944C
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 98
+    JEEP_TP_FL_F: 14.8
+    JEEP_TP_FL_V2: 37
+    JEEP_TT_FL_F: -29
+    JEEP_TT_FL_V2: 26
   response: |-
     4C0100962A0F100944C
     4C021150B5CF100944C
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 98
+    JEEP_TP_FL_F: 14.8
+    JEEP_TP_FL_V2: 37
+    JEEP_TT_FL_F: -29
+    JEEP_TT_FL_V2: 26
   response: |-
     4C0100962A0F100944C
     4C0217F0B5CF100944C
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 102
+    JEEP_TP_FL_F: 15.2
+    JEEP_TP_FL_V2: 38
+    JEEP_TT_FL_F: 41
+    JEEP_TT_FL_V2: 29
   response: |-
     4C0100962A0F100984F
     4C02100515CF100984F
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 102
+    JEEP_TP_FL_F: 15.2
+    JEEP_TP_FL_V2: 38
+    JEEP_TT_FL_F: 41
+    JEEP_TT_FL_V2: 30
   response: |-
     4C0100962A0F1009850
     4C02100515CF1009850
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 102
+    JEEP_TP_FL_F: 15.2
+    JEEP_TP_FL_V2: 38
+    JEEP_TT_FL_F: -29
+    JEEP_TT_FL_V2: 31
   response: |-
     4C0100962A0F1009851
     4C021100B5CF1009851
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 102
+    JEEP_TP_FL_F: 15.2
+    JEEP_TP_FL_V2: 38
+    JEEP_TT_FL_F: -29
+    JEEP_TT_FL_V2: 32
   response: |-
     4C0100962A0F1009852
     4C021F00B5CF1009852
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 108
+    JEEP_TP_FL_F: 15.8
+    JEEP_TP_FL_V2: 39.5
+    JEEP_TT_FL_F: 105
+    JEEP_TT_FL_V2: 36
   response: |-
     4C0100962A0F1009E56
     4C02100915CF1009E56
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 110
+    JEEP_TP_FL_F: 16
+    JEEP_TP_FL_V2: 40
+    JEEP_TT_FL_F: 41
+    JEEP_TT_FL_V2: 38
   response: |-
     4C0100962A0F100A058
     4C02100515CF100A058
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 112
+    JEEP_TP_FL_F: 16.2
+    JEEP_TP_FL_V2: 40.5
+    JEEP_TT_FL_F: 41
+    JEEP_TT_FL_V2: 45
   response: |-
     4C0100962A0F100A25F
     4C02100515CF100A25F
 - expected_values:
-    JEEP_TP_FL_V2: 0
-    JEEP_TT_FL_V2: 118
+    JEEP_TP_FL_F: 16.8
+    JEEP_TP_FL_V2: 42
+    JEEP_TT_FL_F: 105
+    JEEP_TT_FL_V2: 31
   response: |-
     4C0100962A0F100A851
     4C02100915CF100A851

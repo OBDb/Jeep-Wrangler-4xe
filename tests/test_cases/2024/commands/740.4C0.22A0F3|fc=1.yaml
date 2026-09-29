@@ -1,62 +1,82 @@
 command_id: 740.4C0.22A0F3|fc=1
 test_cases:
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 96
+    JEEP_TP_RR_F: 14.6
+    JEEP_TP_RR_V2: 36.5
+    JEEP_TT_RR_F: -29
+    JEEP_TT_RR_V2: 24
   response: |-
     4C0100962A0F300924A
     4C0215F0B5EF300924A
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 100
+    JEEP_TP_RR_F: 15
+    JEEP_TP_RR_V2: 37.5
+    JEEP_TT_RR_F: 105
+    JEEP_TT_RR_V2: 25
   response: |-
     4C0100962A0F300964B
     4C02100915EF300964B
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 100
+    JEEP_TP_RR_F: 15
+    JEEP_TP_RR_V2: 37.5
+    JEEP_TT_RR_F: -29
+    JEEP_TT_RR_V2: 32
   response: |-
     4C0100962A0F3009652
     4C021500B5EF3009652
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 102
+    JEEP_TP_RR_F: 15.2
+    JEEP_TP_RR_V2: 38
+    JEEP_TT_RR_F: 41
+    JEEP_TT_RR_V2: 29
   response: |-
     4C0100962A0F300984F
     4C02100515EF300984F
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 102
+    JEEP_TP_RR_F: 15.2
+    JEEP_TP_RR_V2: 38
+    JEEP_TT_RR_F: -37
+    JEEP_TT_RR_V2: 30
   response: |-
     4C0100962A0F3009850
     4C02100035EF3009850
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 102
+    JEEP_TP_RR_F: 15.2
+    JEEP_TP_RR_V2: 38
+    JEEP_TT_RR_F: -29
+    JEEP_TT_RR_V2: 33
   response: |-
     4C0100962A0F3009853
     4C021FF0B5EF3009853
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 108
+    JEEP_TP_RR_F: 15.8
+    JEEP_TP_RR_V2: 39.5
+    JEEP_TT_RR_F: 105
+    JEEP_TT_RR_V2: 37
   response: |-
     4C0100962A0F3009E57
     4C02100915EF3009E57
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 110
+    JEEP_TP_RR_F: 16
+    JEEP_TP_RR_V2: 40
+    JEEP_TT_RR_F: 105
+    JEEP_TT_RR_V2: 38
   response: |-
     4C0100962A0F300A058
     4C02100915EF300A058
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 114
+    JEEP_TP_RR_F: 16.4
+    JEEP_TP_RR_V2: 41
+    JEEP_TT_RR_F: 105
+    JEEP_TT_RR_V2: 48
   response: |-
     4C0100962A0F300A462
     4C02100915EF300A462
 - expected_values:
-    JEEP_TP_RR_V2: 0
-    JEEP_TT_RR_V2: 116
+    JEEP_TP_RR_F: 16.6
+    JEEP_TP_RR_V2: 41.5
+    JEEP_TT_RR_F: 105
+    JEEP_TT_RR_V2: 32
   response: |-
     4C0100962A0F300A652
     4C02100915EF300A652

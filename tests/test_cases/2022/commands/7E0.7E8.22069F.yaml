@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22069F
+test_cases:
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 21
+  response: 7E80462069F55
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 23
+  response: 7E80462069F57
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 27
+  response: 7E80462069F5B
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 30
+  response: 7E80462069F5E
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 46
+  response: 7E80462069F6E
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 48
+  response: 7E80462069F70
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 57
+  response: 7E80462069F79
+- expected_values:
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 58
+  response: 7E80462069F7A

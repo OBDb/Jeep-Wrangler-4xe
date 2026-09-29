@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22012B
+test_cases:
+- expected_values:
+    JEEP_CAT_MODEL_T: 33
+  response: 7E80562012B0061
+- expected_values:
+    JEEP_CAT_MODEL_T: 70
+  response: 7E80562012B0086
+- expected_values:
+    JEEP_CAT_MODEL_T: 44
+  response: 7E80562012B026C
+- expected_values:
+    JEEP_CAT_MODEL_T: 47
+  response: 7E80562012B026F
+- expected_values:
+    JEEP_CAT_MODEL_T: 52
+  response: 7E80562012B0274
+- expected_values:
+    JEEP_CAT_MODEL_T: 53
+  response: 7E80562012B0275
+- expected_values:
+    JEEP_CAT_MODEL_T: 61
+  response: 7E80562012B027D
+- expected_values:
+    JEEP_CAT_MODEL_T: 71
+  response: 7E80562012B0287
+- expected_values:
+    JEEP_CAT_MODEL_T: 161
+  response: 7E80562012B02E1
+- expected_values:
+    JEEP_CAT_MODEL_T: 168
+  response: 7E80562012B02E8
