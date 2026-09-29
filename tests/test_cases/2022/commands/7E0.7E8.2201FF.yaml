@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2201FF
+test_cases:
+- expected_values:
+    JEEP_IAT_01FF: 21
+  response: 7E8056201FF0055
+- expected_values:
+    JEEP_IAT_01FF: 22
+  response: 7E8056201FF0056
+- expected_values:
+    JEEP_IAT_01FF: 23
+  response: 7E8056201FF0057
+- expected_values:
+    JEEP_IAT_01FF: 24
+  response: 7E8056201FF0058
+- expected_values:
+    JEEP_IAT_01FF: 25
+  response: 7E8056201FF0059
+- expected_values:
+    JEEP_IAT_01FF: 27
+  response: 7E8056201FF005B
+- expected_values:
+    JEEP_IAT_01FF: 28
+  response: 7E8056201FF005C
+- expected_values:
+    JEEP_IAT_01FF: 29
+  response: 7E8056201FF005D

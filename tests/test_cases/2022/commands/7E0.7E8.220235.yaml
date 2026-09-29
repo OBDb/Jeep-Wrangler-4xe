@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220235
+test_cases:
+- expected_values:
+    JEEP_INJ_WIDTH_CYL_2: 0
+  response: '7E80762023500000000'
+- expected_values:
+    JEEP_INJ_WIDTH_CYL_2: 29.153
+  response: 7E807620235000071E1
+- expected_values:
+    JEEP_INJ_WIDTH_CYL_2: 31.679
+  response: 7E80762023500007BBF

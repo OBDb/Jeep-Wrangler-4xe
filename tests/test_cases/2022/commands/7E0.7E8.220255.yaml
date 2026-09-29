@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.220255
+test_cases:
+- expected_values:
+    JEEP_FUEL_MASS_CYL_1: 0
+  response: '7E8056202550000'
+- expected_values:
+    JEEP_FUEL_MASS_CYL_1: 11.67188
+  response: 7E80562025502EB
+- expected_values:
+    JEEP_FUEL_MASS_CYL_1: 12.75
+  response: '7E8056202550330'
+- expected_values:
+    JEEP_FUEL_MASS_CYL_1: 29.51562
+  response: '7E8056202550761'
+- expected_values:
+    JEEP_FUEL_MASS_CYL_1: 34.20312
+  response: 7E805620255088D
