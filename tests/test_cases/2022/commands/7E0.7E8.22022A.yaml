@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22022A
+test_cases:
+- expected_values:
+    JEEP_EOP: 0
+  response: 7E80462022A00
+- expected_values:
+    JEEP_EOP: 18.56
+  response: 7E80462022A20
+- expected_values:
+    JEEP_EOP: 19.14
+  response: 7E80462022A21
+- expected_values:
+    JEEP_EOP: 19.72
+  response: 7E80462022A22
+- expected_values:
+    JEEP_EOP: 21.46
+  response: 7E80462022A25
+- expected_values:
+    JEEP_EOP: 49.88
+  response: 7E80462022A56

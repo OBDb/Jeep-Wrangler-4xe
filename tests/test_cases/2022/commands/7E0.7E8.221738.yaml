@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221738
+test_cases:
+- expected_values:
+    JEEP_FR_WHL_SPD: 0
+  response: '7E8056217380000'
+- expected_values:
+    JEEP_FR_WHL_SPD: 1.6875
+  response: 7E805621738006C
+- expected_values:
+    JEEP_FR_WHL_SPD: 5.0625
+  response: '7E8056217380144'
+- expected_values:
+    JEEP_FR_WHL_SPD: 6.1875
+  response: 7E805621738018C
+- expected_values:
+    JEEP_FR_WHL_SPD: 9.70312
+  response: 7E805621738026D
+- expected_values:
+    JEEP_FR_WHL_SPD: 14.90625
+  response: 7E80562173803BA
+- expected_values:
+    JEEP_FR_WHL_SPD: 30.23438
+  response: 7E805621738078F
+- expected_values:
+    JEEP_FR_WHL_SPD: 42.75
+  response: 7E8056217380AB0
+- expected_values:
+    JEEP_FR_WHL_SPD: 54
+  response: 7E8056217380D80

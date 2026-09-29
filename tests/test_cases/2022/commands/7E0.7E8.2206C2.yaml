@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2206C2
+test_cases:
+- expected_values:
+    JEEP_INT_CAM_1_OFFSET: 20.4
+  response: 7E8056206C200CC
+- expected_values:
+    JEEP_INT_CAM_1_OFFSET: 25.2
+  response: 7E8056206C200FC
+- expected_values:
+    JEEP_INT_CAM_1_OFFSET: 29.7
+  response: 7E8056206C20129
+- expected_values:
+    JEEP_INT_CAM_1_OFFSET: -2.3
+  response: 7E8056206C2FFE9
+- expected_values:
+    JEEP_INT_CAM_1_OFFSET: -1.7
+  response: 7E8056206C2FFEF
+- expected_values:
+    JEEP_INT_CAM_1_OFFSET: -1.3
+  response: 7E8056206C2FFF3
+- expected_values:
+    JEEP_INT_CAM_1_OFFSET: -0.1
+  response: 7E8056206C2FFFF

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221247
+test_cases:
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 97.75
+  response: 7E8056212473D18
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 97.85
+  response: 7E8056212473D28
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 97.95
+  response: 7E8056212473D38
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 98.05
+  response: 7E8056212473D48
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 98.25
+  response: 7E8056212473D68
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 98.55
+  response: 7E8056212473D98
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 100.85
+  response: 7E8056212473F08
+- expected_values:
+    JEEP_THROTTLE_INLET_P: 124.4625
+  response: 7E8056212474DCA
