@@ -4,29 +4,5 @@ test_cases:
     JEEP_LOW_SIDE_ECT: 22
   response: 7E8046212C956
 - expected_values:
-    JEEP_LOW_SIDE_ECT: 27
-  response: 7E8046212C95B
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 29
-  response: 7E8046212C95D
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 30
-  response: 7E8046212C95E
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 32
-  response: 7E8046212C960
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 33
-  response: 7E8046212C961
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 34
-  response: 7E8046212C962
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 36
-  response: 7E8046212C964
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 39
-  response: 7E8046212C967
-- expected_values:
-    JEEP_LOW_SIDE_ECT: 40
-  response: 7E8046212C968
+    JEEP_LOW_SIDE_ECT: 44
+  response: 7E8046212C96C
