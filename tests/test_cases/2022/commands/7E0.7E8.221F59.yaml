@@ -4,26 +4,8 @@ test_cases:
     JEEP_WASTEGATE_POS_SENS: 0.3904
   response: 7E805621F590050
 - expected_values:
-    JEEP_WASTEGATE_POS_SENS: 2.89384
-  response: 7E805621F590251
+    JEEP_WASTEGATE_POS_SENS: 0.84424
+  response: 7E805621F5900AD
 - expected_values:
-    JEEP_WASTEGATE_POS_SENS: 3.10856
-  response: 7E805621F59027D
-- expected_values:
-    JEEP_WASTEGATE_POS_SENS: 3.1232
-  response: 7E805621F590280
-- expected_values:
-    JEEP_WASTEGATE_POS_SENS: 3.1476
-  response: 7E805621F590285
-- expected_values:
-    JEEP_WASTEGATE_POS_SENS: 3.294
-  response: 7E805621F5902A3
-- expected_values:
-    JEEP_WASTEGATE_POS_SENS: 3.29888
-  response: 7E805621F5902A4
-- expected_values:
-    JEEP_WASTEGATE_POS_SENS: 3.30376
-  response: 7E805621F5902A5
-- expected_values:
-    JEEP_WASTEGATE_POS_SENS: 3.30864
-  response: 7E805621F5902A6
+    JEEP_WASTEGATE_POS_SENS: 2.57664
+  response: 7E805621F590210

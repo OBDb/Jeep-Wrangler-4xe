@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     JEEP_FLI_INPUT: 100
   response: 7E8046202278A
+- expected_values:
+    JEEP_FLI_INPUT: 100
+  response: 7E8046202278C
+- expected_values:
+    JEEP_FLI_INPUT: 100
+  response: 7E8046202278D

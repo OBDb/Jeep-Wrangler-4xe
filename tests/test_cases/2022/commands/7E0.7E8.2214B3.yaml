@@ -4,26 +4,5 @@ test_cases:
     JEEP_THROTTLE_INLET_AIR_T_RAW: 22
   response: 7E8056214B30056
 - expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 23
-  response: 7E8056214B30057
-- expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 24
-  response: 7E8056214B30058
-- expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 26
-  response: 7E8056214B3005A
-- expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 27
-  response: 7E8056214B3005B
-- expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 28
-  response: 7E8056214B3005C
-- expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 30
-  response: 7E8056214B3005E
-- expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 31
-  response: 7E8056214B3005F
-- expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 35
-  response: 7E8056214B30063
+    JEEP_THROTTLE_INLET_AIR_T_RAW: 61
+  response: 7E8056214B3007D

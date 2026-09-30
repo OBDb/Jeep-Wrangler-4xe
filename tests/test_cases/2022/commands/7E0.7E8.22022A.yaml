@@ -4,6 +4,12 @@ test_cases:
     JEEP_EOP: 0
   response: 7E80462022A00
 - expected_values:
+    JEEP_EOP: 17.4
+  response: 7E80462022A1E
+- expected_values:
+    JEEP_EOP: 17.98
+  response: 7E80462022A1F
+- expected_values:
     JEEP_EOP: 18.56
   response: 7E80462022A20
 - expected_values:
@@ -15,6 +21,9 @@ test_cases:
 - expected_values:
     JEEP_EOP: 21.46
   response: 7E80462022A25
+- expected_values:
+    JEEP_EOP: 48.72
+  response: 7E80462022A54
 - expected_values:
     JEEP_EOP: 49.88
   response: 7E80462022A56
