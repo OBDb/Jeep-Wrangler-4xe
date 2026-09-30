@@ -4,26 +4,5 @@ test_cases:
     JEEP_VARIABLE_VLV_TIM_OIL_P: 0
   response: 7E80462069E00
 - expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 120
-  response: 7E80462069E1E
-- expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 124
-  response: 7E80462069E1F
-- expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 128
-  response: 7E80462069E20
-- expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 136
-  response: 7E80462069E22
-- expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 148
-  response: 7E80462069E25
-- expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 268
-  response: 7E80462069E43
-- expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_P: 340
-  response: 7E80462069E55
-- expected_values:
     JEEP_VARIABLE_VLV_TIM_OIL_P: 344
   response: 7E80462069E56

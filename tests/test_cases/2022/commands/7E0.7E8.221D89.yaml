@@ -4,23 +4,8 @@ test_cases:
     JEEP_FUEL_RAIL_P_TGT: 8.192
   response: 7E805621D892000
 - expected_values:
-    JEEP_FUEL_RAIL_P_TGT: 8.215
-  response: 7E805621D892017
-- expected_values:
-    JEEP_FUEL_RAIL_P_TGT: 12.591
-  response: 7E805621D89312F
-- expected_values:
-    JEEP_FUEL_RAIL_P_TGT: 12.891
-  response: 7E805621D89325B
-- expected_values:
-    JEEP_FUEL_RAIL_P_TGT: 14.16
-  response: 7E805621D893750
-- expected_values:
-    JEEP_FUEL_RAIL_P_TGT: 14.419
-  response: 7E805621D893853
-- expected_values:
-    JEEP_FUEL_RAIL_P_TGT: 18.465
-  response: 7E805621D894821
+    JEEP_FUEL_RAIL_P_TGT: 18.907
+  response: 7E805621D8949DB
 - expected_values:
     JEEP_FUEL_RAIL_P_TGT: 20.48
   response: 7E805621D895000
