@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     JEEP_VGT_CMD_189F: -100
   response: 7E80562189F00C4
+- expected_values:
+    JEEP_VGT_CMD_189F: -100
+  response: 7E80562189F00C5

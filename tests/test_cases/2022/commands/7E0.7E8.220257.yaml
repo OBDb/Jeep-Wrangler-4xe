@@ -4,8 +4,8 @@ test_cases:
     JEEP_FUEL_MASS_CYL_3: 0
   response: '7E8056202570000'
 - expected_values:
-    JEEP_FUEL_MASS_CYL_3: 22.8125
-  response: 7E80562025705B4
+    JEEP_FUEL_MASS_CYL_3: 27.625
+  response: 7E80562025706E8
 - expected_values:
     JEEP_FUEL_MASS_CYL_3: 48.79688
   response: 7E8056202570C33
