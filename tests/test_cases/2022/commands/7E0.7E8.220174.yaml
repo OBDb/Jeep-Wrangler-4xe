@@ -10,5 +10,5 @@ test_cases:
     JEEP_MAP: 53.2
   response: 7E805620174010A
 - expected_values:
-    JEEP_MAP: 115.2
-  response: '7E8056201740240'
+    JEEP_MAP: 109.4
+  response: '7E8056201740223'
