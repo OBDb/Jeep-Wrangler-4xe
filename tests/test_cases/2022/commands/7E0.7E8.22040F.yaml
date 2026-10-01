@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22040F
+test_cases:
+- expected_values:
+    JEEP_FLI_7E0: 0
+  response: 7E80562040F0000
+- expected_values:
+    JEEP_FLI_7E0: 23.3208
+  response: 7E80562040F0029
+- expected_values:
+    JEEP_FLI_7E0: 23.8896
+  response: 7E80562040F002A
+- expected_values:
+    JEEP_FLI_7E0: 28.44
+  response: 7E80562040F0032
+- expected_values:
+    JEEP_FLI_7E0: 34.6968
+  response: 7E80562040F003D
+- expected_values:
+    JEEP_FLI_7E0: 90.4392
+  response: 7E80562040F009F
+- expected_values:
+    JEEP_FLI_7E0: 130.824
+  response: 7E80562040F00E6

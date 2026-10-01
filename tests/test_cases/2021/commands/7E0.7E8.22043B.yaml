@@ -1,14 +1,18 @@
 command_id: 7E0.7E8.22043B
 test_cases:
 - expected_values:
-    JEEP_ODO: 70336.512
+    JEEP_ODO_V2: 70336.512
+    JEEP_PCM_ODO: 70336.512
   response: 7E80562043B218A
 - expected_values:
-    JEEP_ODO: 71294.976
+    JEEP_ODO_V2: 71294.976
+    JEEP_PCM_ODO: 71294.976
   response: 7E80562043B21FF
 - expected_values:
-    JEEP_ODO: 71303.168
+    JEEP_ODO_V2: 71303.168
+    JEEP_PCM_ODO: 71303.168
   response: 7E80562043B2200
 - expected_values:
-    JEEP_ODO: 73498.624
+    JEEP_ODO_V2: 73498.624
+    JEEP_PCM_ODO: 73498.624
   response: 7E80562043B230C

@@ -1,72 +1,90 @@
 command_id: 740.4C0.22A0F2|fc=1
 test_cases:
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 14.4
     JEEP_TP_FR_V2: 36
+    JEEP_TT_FR_740: 94
     JEEP_TT_FR_F: -29
     JEEP_TT_FR_V2: 24
   response: |-
     4C0100962A0F200904A
     4C021650B5DF200904A
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 14.4
     JEEP_TP_FR_V2: 36
+    JEEP_TT_FR_740: 94
     JEEP_TT_FR_F: -29
     JEEP_TT_FR_V2: 24
   response: |-
     4C0100962A0F200904A
     4C021800B5DF200904A
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 14.4
     JEEP_TP_FR_V2: 36
+    JEEP_TT_FR_740: 94
     JEEP_TT_FR_F: 105
     JEEP_TT_FR_V2: 25
   response: |-
     4C0100962A0F200904B
     4C02100915DF200904B
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 14.8
     JEEP_TP_FR_V2: 37
+    JEEP_TT_FR_740: 98
     JEEP_TT_FR_F: 41
     JEEP_TT_FR_V2: 29
   response: |-
     4C0100962A0F200944F
     4C02100515DF200944F
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 14.8
     JEEP_TP_FR_V2: 37
+    JEEP_TT_FR_740: 98
     JEEP_TT_FR_F: -37
     JEEP_TT_FR_V2: 30
   response: |-
     4C0100962A0F2009450
     4C02100035DF2009450
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 14.8
     JEEP_TP_FR_V2: 37
+    JEEP_TT_FR_740: 98
     JEEP_TT_FR_F: -29
     JEEP_TT_FR_V2: 33
   response: |-
     4C0100962A0F2009453
     4C021FF0B5DF2009453
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 15.8
     JEEP_TP_FR_V2: 39.5
+    JEEP_TT_FR_740: 108
     JEEP_TT_FR_F: 105
     JEEP_TT_FR_V2: 46
   response: |-
     4C0100962A0F2009E60
     4C02100915DF2009E60
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 16
     JEEP_TP_FR_V2: 40
+    JEEP_TT_FR_740: 110
     JEEP_TT_FR_F: 105
     JEEP_TT_FR_V2: 27
   response: |-
     4C0100962A0F200A04D
     4C02100915DF200A04D
 - expected_values:
+    JEEP_TP_FR_740: 0
     JEEP_TP_FR_F: 16.6
     JEEP_TP_FR_V2: 41.5
+    JEEP_TT_FR_740: 116
     JEEP_TT_FR_F: 105
     JEEP_TT_FR_V2: 32
   response: |-

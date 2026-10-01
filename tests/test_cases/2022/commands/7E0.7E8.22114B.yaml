@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22114B
+test_cases:
+- expected_values:
+    JEEP_ACCEL_PEDAL_POS: 7.84314
+  response: 7E80462114B14
+- expected_values:
+    JEEP_ACCEL_PEDAL_POS: 14.90196
+  response: 7E80462114B26
+- expected_values:
+    JEEP_ACCEL_PEDAL_POS: 18.43137
+  response: 7E80462114B2F
+- expected_values:
+    JEEP_ACCEL_PEDAL_POS: 21.56863
+  response: 7E80462114B37
+- expected_values:
+    JEEP_ACCEL_PEDAL_POS: 24.31373
+  response: 7E80462114B3E
+- expected_values:
+    JEEP_ACCEL_PEDAL_POS: 28.62745
+  response: 7E80462114B49
+- expected_values:
+    JEEP_ACCEL_PEDAL_POS: 33.72549
+  response: 7E80462114B56
