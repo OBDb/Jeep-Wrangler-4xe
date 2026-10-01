@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22011D
+test_cases:
+- expected_values:
+    JEEP_ECT: 29
+  response: 7E80462011D5D
+- expected_values:
+    JEEP_ECT: 51
+  response: 7E80462011D73
+- expected_values:
+    JEEP_ECT: 67
+  response: 7E80462011D83
+- expected_values:
+    JEEP_ECT: 73
+  response: 7E80462011D89
+- expected_values:
+    JEEP_ECT: 80
+  response: 7E80462011D90
+- expected_values:
+    JEEP_ECT: 83
+  response: 7E80462011D93
+- expected_values:
+    JEEP_ECT: 84
+  response: 7E80462011D94
+- expected_values:
+    JEEP_ECT: 89
+  response: 7E80462011D99
+- expected_values:
+    JEEP_ECT: 90
+  response: 7E80462011D9A

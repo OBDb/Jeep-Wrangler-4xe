@@ -1,88 +1,110 @@
 command_id: 740.4C0.22A0F4|fc=1
 test_cases:
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 14.6
     JEEP_TP_RL_V2: 36.5
+    JEEP_TT_RL_740: 96
     JEEP_TT_RL_F: -29
     JEEP_TT_RL_V2: 25
   response: |-
     4C0100962A0F400924B
     4C021670B5FF400924B
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 14.8
     JEEP_TP_RL_V2: 37
+    JEEP_TT_RL_740: 98
     JEEP_TT_RL_F: 105
     JEEP_TT_RL_V2: 26
   response: |-
     4C0100962A0F400944C
     4C02100915FF400944C
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 15
     JEEP_TP_RL_V2: 37.5
+    JEEP_TT_RL_740: 100
     JEEP_TT_RL_F: 155
     JEEP_TT_RL_V2: 29
   response: |-
     4C0100962A0F400964F
     4C02100C35FF400964F
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 15
     JEEP_TP_RL_V2: 37.5
+    JEEP_TT_RL_740: 100
     JEEP_TT_RL_F: -29
     JEEP_TT_RL_V2: 32
   response: |-
     4C0100962A0F4009652
     4C021500B5FF4009652
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 15.2
     JEEP_TP_RL_V2: 38
+    JEEP_TT_RL_740: 102
     JEEP_TT_RL_F: -37
     JEEP_TT_RL_V2: 30
   response: |-
     4C0100962A0F4009850
     4C02100035FF4009850
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 15.2
     JEEP_TP_RL_V2: 38
+    JEEP_TT_RL_740: 102
     JEEP_TT_RL_F: -29
     JEEP_TT_RL_V2: 32
   response: |-
     4C0100962A0F4009852
     4C021F50B5FF4009852
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 15.2
     JEEP_TP_RL_V2: 38
+    JEEP_TT_RL_740: 102
     JEEP_TT_RL_F: -29
     JEEP_TT_RL_V2: 32
   response: |-
     4C0100962A0F4009852
     4C021FF0B5FF4009852
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 15.8
     JEEP_TP_RL_V2: 39.5
+    JEEP_TT_RL_740: 108
     JEEP_TT_RL_F: -37
     JEEP_TT_RL_V2: 36
   response: |-
     4C0100962A0F4009E56
     4C0210E035FF4009E56
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 16
     JEEP_TP_RL_V2: 40
+    JEEP_TT_RL_740: 110
     JEEP_TT_RL_F: 41
     JEEP_TT_RL_V2: 39
   response: |-
     4C0100962A0F400A059
     4C02100515FF400A059
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 16.4
     JEEP_TP_RL_V2: 41
+    JEEP_TT_RL_740: 114
     JEEP_TT_RL_F: 105
     JEEP_TT_RL_V2: 47
   response: |-
     4C0100962A0F400A461
     4C02100915FF400A461
 - expected_values:
+    JEEP_TP_RL_740: 0
     JEEP_TP_RL_F: 16.8
     JEEP_TP_RL_V2: 42
+    JEEP_TT_RL_740: 118
     JEEP_TT_RL_F: -29
     JEEP_TT_RL_V2: 33
   response: |-

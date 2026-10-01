@@ -1,0 +1,22 @@
+command_id: 7E1.7E9.225503
+test_cases:
+- expected_values:
+    JEEP_CURRENT_GEAR_RAW_CNT: 1
+    JEEP_GEAR: '1'
+  response: '7E90762550301036100'
+- expected_values:
+    JEEP_CURRENT_GEAR_RAW_CNT: 2
+    JEEP_GEAR: '2'
+  response: 7E90762550302033D00
+- expected_values:
+    JEEP_CURRENT_GEAR_RAW_CNT: 2
+    JEEP_GEAR: '2'
+  response: 7E90762550302042A00
+- expected_values:
+    JEEP_CURRENT_GEAR_RAW_CNT: 2
+    JEEP_GEAR: '2'
+  response: 7E9076255030204FC00
+- expected_values:
+    JEEP_CURRENT_GEAR_RAW_CNT: 2
+    JEEP_GEAR: '2'
+  response: 7E90762550302065D00

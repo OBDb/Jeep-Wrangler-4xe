@@ -7,5 +7,5 @@ test_cases:
     JEEP_FL_WHL_SPD: 7.875
   response: 7E80562173701F8
 - expected_values:
-    JEEP_FL_WHL_SPD: 57.09375
-  response: 7E8056217370E46
+    JEEP_FL_WHL_SPD: 66.23438
+  response: 7E805621737108F
