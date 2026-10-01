@@ -16,6 +16,9 @@ test_cases:
     JEEP_FLI_7E0: 34.6968
   response: 7E80562040F003D
 - expected_values:
+    JEEP_FLI_7E0: 65.412
+  response: 7E80562040F0073
+- expected_values:
     JEEP_FLI_7E0: 90.4392
   response: 7E80562040F009F
 - expected_values:

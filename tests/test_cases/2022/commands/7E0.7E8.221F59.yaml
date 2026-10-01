@@ -4,8 +4,8 @@ test_cases:
     JEEP_WASTEGATE_POS_SENS: 0.27816
   response: 7E805621F590039
 - expected_values:
-    JEEP_WASTEGATE_POS_SENS: 0.84424
-  response: 7E805621F5900AD
+    JEEP_WASTEGATE_POS_SENS: 1.06384
+  response: 7E805621F5900DA
 - expected_values:
     JEEP_WASTEGATE_POS_SENS: 1.31272
   response: 7E805621F59010D
