@@ -7,11 +7,23 @@ test_cases:
     JEEP_CMD_POWER: 5.09804
   response: 7E8046219970D
 - expected_values:
+    JEEP_CMD_POWER: 9.01961
+  response: '7E80462199717'
+- expected_values:
     JEEP_CMD_POWER: 10.58824
   response: 7E8046219971B
 - expected_values:
     JEEP_CMD_POWER: 13.33333
   response: '7E80462199722'
 - expected_values:
+    JEEP_CMD_POWER: 14.5098
+  response: '7E80462199725'
+- expected_values:
+    JEEP_CMD_POWER: 21.17647
+  response: '7E80462199736'
+- expected_values:
     JEEP_CMD_POWER: 24.70588
   response: 7E8046219973F
+- expected_values:
+    JEEP_CMD_POWER: 26.27451
+  response: '7E80462199743'

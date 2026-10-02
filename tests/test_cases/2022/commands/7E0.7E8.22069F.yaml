@@ -4,5 +4,5 @@ test_cases:
     JEEP_VARIABLE_VLV_TIM_OIL_T: 21
   response: 7E80462069F55
 - expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_T: 80
-  response: 7E80462069F90
+    JEEP_VARIABLE_VLV_TIM_OIL_T: 83
+  response: 7E80462069F93

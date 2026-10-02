@@ -12,3 +12,9 @@ test_cases:
   response: |-
     7E9100B625043333835
     7E9210000000002AAAA
+- expected_values:
+    JEEP_ATF_T_7E1_2: 14
+    JEEP_ATF_T_7E1_V2: 14
+  response: |-
+    7E9100B62504336374E
+    7E9215732353601AAAA
