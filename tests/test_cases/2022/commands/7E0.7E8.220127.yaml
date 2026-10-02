@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     JEEP_AAT: 89.8
   response: '7E80462012760'
+- expected_values:
+    JEEP_AAT: 100.6
+  response: '7E80462012766'
+- expected_values:
+    JEEP_AAT: 102.4
+  response: '7E80462012767'

@@ -4,5 +4,5 @@ test_cases:
     JEEP_LOW_SIDE_ECT: 22
   response: 7E8046212C956
 - expected_values:
-    JEEP_LOW_SIDE_ECT: 52
-  response: 7E8046212C974
+    JEEP_LOW_SIDE_ECT: 59
+  response: 7E8046212C97B

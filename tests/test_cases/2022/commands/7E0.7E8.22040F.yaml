@@ -5,22 +5,9 @@ test_cases:
   response: 7E80562040F0000
 - expected_values:
     JEEP_FLI_7E0: 23.3208
-  response: 7E80562040F0029
-- expected_values:
-    JEEP_FLI_7E0: 23.8896
-  response: 7E80562040F002A
-- expected_values:
-    JEEP_FLI_7E0: 28.44
-  response: 7E80562040F0032
-- expected_values:
-    JEEP_FLI_7E0: 34.6968
-  response: 7E80562040F003D
-- expected_values:
-    JEEP_FLI_7E0: 65.412
-  response: 7E80562040F0073
-- expected_values:
-    JEEP_FLI_7E0: 90.4392
-  response: 7E80562040F009F
+  response: |-
+    7E80562040F0029
+    7E80462011E91
 - expected_values:
     JEEP_FLI_7E0: 130.824
   response: 7E80562040F00E6

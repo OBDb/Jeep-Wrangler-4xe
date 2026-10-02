@@ -5,9 +5,9 @@ test_cases:
     JEEP_PCM_ODO: 37355.52
   response: 7E80562043B11D0
 - expected_values:
-    JEEP_ODO_V2: 37724.16
-    JEEP_PCM_ODO: 37724.16
-  response: 7E80562043B11FD
+    JEEP_ODO_V2: 37740.544
+    JEEP_PCM_ODO: 37740.544
+  response: 7E80562043B11FF
 - expected_values:
     JEEP_ODO_V2: 42311.68
     JEEP_PCM_ODO: 42311.68
