@@ -4,5 +4,5 @@ test_cases:
     JEEP_ECT: 29
   response: 7E80462011D5D
 - expected_values:
-    JEEP_ECT: 90
-  response: 7E80462011D9A
+    JEEP_ECT: 92
+  response: 7E80462011D9C
