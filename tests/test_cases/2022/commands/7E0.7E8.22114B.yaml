@@ -4,5 +4,5 @@ test_cases:
     JEEP_ACCEL_PEDAL_POS: 7.84314
   response: 7E80462114B14
 - expected_values:
-    JEEP_ACCEL_PEDAL_POS: 33.72549
-  response: 7E80462114B56
+    JEEP_ACCEL_PEDAL_POS: 38.43137
+  response: 7E80462114B62

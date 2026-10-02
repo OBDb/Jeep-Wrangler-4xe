@@ -4,5 +4,5 @@ test_cases:
     JEEP_THROTTLE_INLET_AIR_T: 22
   response: 7E8056214B10056
 - expected_values:
-    JEEP_THROTTLE_INLET_AIR_T: 61
-  response: 7E8056214B1007D
+    JEEP_THROTTLE_INLET_AIR_T: 104
+  response: 7E8056214B100A8
