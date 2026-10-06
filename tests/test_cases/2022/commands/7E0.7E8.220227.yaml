@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220227
 test_cases:
 - expected_values:
-    JEEP_FLI_INPUT: 100
-  response: 7E8046202277C
+    JEEP_FLI_INPUT: 47.05882
+  response: '7E80462022778'
 - expected_values:
-    JEEP_FLI_INPUT: 100
+    JEEP_FLI_INPUT: 55.29412
   response: 7E8046202278D
