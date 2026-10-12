@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2214B3
 test_cases:
 - expected_values:
-    JEEP_THROTTLE_INLET_AIR_T_RAW: 22
-  response: 7E8056214B30056
+    JEEP_THROTTLE_INLET_AIR_T_RAW: 21
+  response: 7E8056214B30055
 - expected_values:
     JEEP_THROTTLE_INLET_AIR_T_RAW: 97
   response: 7E8056214B300A1
