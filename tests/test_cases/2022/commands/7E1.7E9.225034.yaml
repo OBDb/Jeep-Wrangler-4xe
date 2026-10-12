@@ -4,6 +4,11 @@ test_cases:
     JEEP_MAIN_CYL_P: -40
   response: |-
     7E91008625034000000
+    7E9215300AAAAAAAAAA
+- expected_values:
+    JEEP_MAIN_CYL_P: -40
+  response: |-
+    7E91008625034000000
     7E9216400AAAAAAAAAA
 - expected_values:
     JEEP_MAIN_CYL_P: -40

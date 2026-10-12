@@ -15,5 +15,5 @@ test_cases:
     JEEP_FUEL_RAIL_P_06F3: 13.045
   response: 7E8056206F332F5
 - expected_values:
-    JEEP_FUEL_RAIL_P_06F3: 20.879
-  response: 7E8056206F3518F
+    JEEP_FUEL_RAIL_P_06F3: 20.766
+  response: 7E8056206F3511E

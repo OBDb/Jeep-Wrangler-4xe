@@ -4,5 +4,5 @@ test_cases:
     JEEP_CMD_POWER: 0
   response: '7E80462199700'
 - expected_values:
-    JEEP_CMD_POWER: 30.19608
-  response: 7E8046219974D
+    JEEP_CMD_POWER: 30.58824
+  response: 7E8046219974E
