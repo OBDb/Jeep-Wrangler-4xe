@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220174
 test_cases:
 - expected_values:
-    JEEP_MAP: 16.8
+    W4XE_MAP: 16.8
   response: '7E8056201740054'
 - expected_values:
-    JEEP_MAP: 50
+    W4XE_MAP: 50
   response: 7E80562017400FA
 - expected_values:
-    JEEP_MAP: 52
+    W4XE_MAP: 52
   response: '7E8056201740104'
 - expected_values:
-    JEEP_MAP: 109.4
+    W4XE_MAP: 109.4
   response: '7E8056201740223'

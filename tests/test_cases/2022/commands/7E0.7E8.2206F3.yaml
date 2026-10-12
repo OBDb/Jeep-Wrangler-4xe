@@ -1,19 +1,19 @@
 command_id: 7E0.7E8.2206F3
 test_cases:
 - expected_values:
-    JEEP_FUEL_RAIL_P_06F3: 0.409
+    W4XE_FUEL_RAIL_P_06F3: 0.409
   response: 7E8056206F30199
 - expected_values:
-    JEEP_FUEL_RAIL_P_06F3: 8.646
+    W4XE_FUEL_RAIL_P_06F3: 8.646
   response: |-
     7E8056206F321C6
     7E80462011D99
 - expected_values:
-    JEEP_FUEL_RAIL_P_06F3: 9.473
+    W4XE_FUEL_RAIL_P_06F3: 9.473
   response: 7E8056206F32501
 - expected_values:
-    JEEP_FUEL_RAIL_P_06F3: 13.045
+    W4XE_FUEL_RAIL_P_06F3: 13.045
   response: 7E8056206F332F5
 - expected_values:
-    JEEP_FUEL_RAIL_P_06F3: 20.766
+    W4XE_FUEL_RAIL_P_06F3: 20.766
   response: 7E8056206F3511E

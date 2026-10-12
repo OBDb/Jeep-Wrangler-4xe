@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220256
 test_cases:
 - expected_values:
-    JEEP_FUEL_MASS_CYL_2: 0
+    W4XE_FUEL_MASS_CYL_2: 0
   response: '7E8056202560000'
 - expected_values:
-    JEEP_FUEL_MASS_CYL_2: 15.98438
+    W4XE_FUEL_MASS_CYL_2: 15.98438
   response: 7E80562025603FF
 - expected_values:
-    JEEP_FUEL_MASS_CYL_2: 58.07812
+    W4XE_FUEL_MASS_CYL_2: 58.07812
   response: 7E8056202560E85

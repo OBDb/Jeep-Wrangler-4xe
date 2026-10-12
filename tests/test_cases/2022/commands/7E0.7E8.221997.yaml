@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221997
 test_cases:
 - expected_values:
-    JEEP_CMD_POWER: 0
+    W4XE_CMD_POWER: 0
   response: '7E80462199700'
 - expected_values:
-    JEEP_CMD_POWER: 30.58824
+    W4XE_CMD_POWER: 30.58824
   response: 7E8046219974E

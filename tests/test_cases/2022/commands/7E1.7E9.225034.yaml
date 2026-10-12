@@ -1,32 +1,32 @@
 command_id: 7E1.7E9.225034
 test_cases:
 - expected_values:
-    JEEP_MAIN_CYL_P: -40
+    W4XE_MAIN_CYL_P: -40
   response: |-
     7E91008625034000000
     7E9215300AAAAAAAAAA
 - expected_values:
-    JEEP_MAIN_CYL_P: -40
+    W4XE_MAIN_CYL_P: -40
   response: |-
     7E91008625034000000
     7E9216400AAAAAAAAAA
 - expected_values:
-    JEEP_MAIN_CYL_P: -40
+    W4XE_MAIN_CYL_P: -40
   response: |-
     7E91008625034000000
     7E921A600AAAAAAAAAA
 - expected_values:
-    JEEP_MAIN_CYL_P: -40
+    W4XE_MAIN_CYL_P: -40
   response: |-
     7E91008625034000000
     7E921D200AAAAAAAAAA
 - expected_values:
-    JEEP_MAIN_CYL_P: -40
+    W4XE_MAIN_CYL_P: -40
   response: |-
     7E91008625034000001
     7E9213A00AAAAAAAAAA
 - expected_values:
-    JEEP_MAIN_CYL_P: -40
+    W4XE_MAIN_CYL_P: -40
   response: |-
     7E91008625034000001
     7E921D700AAAAAAAAAA

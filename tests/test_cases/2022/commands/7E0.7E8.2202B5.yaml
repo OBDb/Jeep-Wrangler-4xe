@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2202B5
 test_cases:
 - expected_values:
-    JEEP_REQUIRED_FUEL_CHG_4: 0
+    W4XE_REQUIRED_FUEL_CHG_4: 0
   response: 7E8056202B50000
 - expected_values:
-    JEEP_REQUIRED_FUEL_CHG_4: 3.82812
+    W4XE_REQUIRED_FUEL_CHG_4: 3.82812
   response: 7E8056202B500F5
 - expected_values:
-    JEEP_REQUIRED_FUEL_CHG_4: 57.17188
+    W4XE_REQUIRED_FUEL_CHG_4: 57.17188
   response: 7E8056202B50E4B

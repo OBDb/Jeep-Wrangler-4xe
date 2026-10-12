@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.22040F
 test_cases:
 - expected_values:
-    JEEP_FLI_7E0: 0
+    W4XE_FLI_7E0: 0
   response: 7E80562040F0000
 - expected_values:
-    JEEP_FLI_7E0: 23.3208
+    W4XE_FLI_7E0: 23.3208
   response: |-
     7E80562040F0029
     7E80462011E91
 - expected_values:
-    JEEP_FLI_7E0: 130.824
+    W4XE_FLI_7E0: 130.824
   response: 7E80562040F00E6

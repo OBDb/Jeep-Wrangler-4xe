@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22012B
 test_cases:
 - expected_values:
-    JEEP_CAT_MODEL_T: 84
+    W4XE_CAT_MODEL_T: 84
   response: 7E80562012B0054
 - expected_values:
-    JEEP_CAT_MODEL_T: 516
+    W4XE_CAT_MODEL_T: 516
   response: 7E80562012B0204
 - expected_values:
-    JEEP_CAT_MODEL_T: 764
+    W4XE_CAT_MODEL_T: 764
   response: 7E80562012B02FC
 - expected_values:
-    JEEP_CAT_MODEL_T: 773
+    W4XE_CAT_MODEL_T: 773
   response: 7E80562012B0305
