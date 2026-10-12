@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.21B1
+test_cases:
+- expected_values:
+    JEEP_REGEN_CNT: 65535
+  response: |-
+    7E8101A61B100495000
+    7E82101FFFFFFFFFFFF
+    7E822FFFFFFFFFFFFFF
+    7E823FFFFFFFFFFFFFF

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2206F3
 test_cases:
 - expected_values:
-    JEEP_FUEL_RAIL_P_06F3: 0.493
-  response: 7E8056206F301ED
+    JEEP_FUEL_RAIL_P_06F3: 0.409
+  response: 7E8056206F30199
 - expected_values:
     JEEP_FUEL_RAIL_P_06F3: 8.646
   response: |-
