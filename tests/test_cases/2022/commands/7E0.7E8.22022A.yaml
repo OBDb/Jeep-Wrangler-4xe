@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22022A
 test_cases:
 - expected_values:
-    JEEP_EOP: 0
+    W4XE_EOP: 0
   response: 7E80462022A00
 - expected_values:
-    JEEP_EOP: 50.46
+    W4XE_EOP: 50.46
   response: 7E80462022A57

@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221247
 test_cases:
 - expected_values:
-    JEEP_THROTTLE_INLET_P: 97.75
+    W4XE_THROTTLE_INLET_P: 97.75
   response: 7E8056212473D18
 - expected_values:
-    JEEP_THROTTLE_INLET_P: 100.75625
+    W4XE_THROTTLE_INLET_P: 100.75625
   response: 7E8056212473EF9
 - expected_values:
-    JEEP_THROTTLE_INLET_P: 104
+    W4XE_THROTTLE_INLET_P: 104
   response: '7E8056212474100'
 - expected_values:
-    JEEP_THROTTLE_INLET_P: 190.325
+    W4XE_THROTTLE_INLET_P: 190.325
   response: 7E80562124776F4

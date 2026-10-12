@@ -1,7 +1,7 @@
 command_id: 7E0.7E8.21B7
 test_cases:
 - expected_values:
-    JEEP_FUEL_P: 0
+    W4XE_FUEL_P: 0
   response: |-
     7E810FD61B700000000
     7E821006000D5000000
@@ -41,7 +41,7 @@ test_cases:
     7E82300000000000000
     7E82400000000000000
 - expected_values:
-    JEEP_FUEL_P: 0
+    W4XE_FUEL_P: 0
   response: |-
     7E810FD61B700000000
     7E821006100D6000000
@@ -81,7 +81,7 @@ test_cases:
     7E82300000000000000
     7E82400000000000000
 - expected_values:
-    JEEP_FUEL_P: 0
+    W4XE_FUEL_P: 0
   response: |-
     7E810FD61B700000000
     7E821006100D6000000
@@ -121,7 +121,7 @@ test_cases:
     7E82300000000000000
     7E82400000000000000
 - expected_values:
-    JEEP_FUEL_P: 0
+    W4XE_FUEL_P: 0
   response: |-
     7E810FD61B700000000
     7E821006100D6000000

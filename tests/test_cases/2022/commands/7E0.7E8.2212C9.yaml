@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2212C9
 test_cases:
 - expected_values:
-    JEEP_LOW_SIDE_ECT: 22
+    W4XE_LOW_SIDE_ECT: 22
   response: 7E8046212C956
 - expected_values:
-    JEEP_LOW_SIDE_ECT: 59
+    W4XE_LOW_SIDE_ECT: 59
   response: 7E8046212C97B

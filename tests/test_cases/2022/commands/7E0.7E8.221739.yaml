@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221739
 test_cases:
 - expected_values:
-    JEEP_RL_WHL_SPD: 0
+    W4XE_RL_WHL_SPD: 0
   response: '7E8056217390000'
 - expected_values:
-    JEEP_RL_WHL_SPD: 11.95312
+    W4XE_RL_WHL_SPD: 11.95312
   response: 7E80562173902FD
 - expected_values:
-    JEEP_RL_WHL_SPD: 76.21875
+    W4XE_RL_WHL_SPD: 76.21875
   response: 7E805621739130E

@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.220109
 test_cases:
 - expected_values:
-    JEEP_BAROMETRIC_P: 98
+    W4XE_BAROMETRIC_P: 98
   response: 7E80562010901EA
 - expected_values:
-    JEEP_BAROMETRIC_P: 98.2
+    W4XE_BAROMETRIC_P: 98.2
   response: 7E80562010901EB
 - expected_values:
-    JEEP_BAROMETRIC_P: 98.4
+    W4XE_BAROMETRIC_P: 98.4
   response: 7E80562010901EC
 - expected_values:
-    JEEP_BAROMETRIC_P: 98.6
+    W4XE_BAROMETRIC_P: 98.6
   response: 7E80562010901ED
 - expected_values:
-    JEEP_BAROMETRIC_P: 98.8
+    W4XE_BAROMETRIC_P: 98.8
   response: 7E80562010901EE
 - expected_values:
-    JEEP_BAROMETRIC_P: 99
+    W4XE_BAROMETRIC_P: 99
   response: 7E80562010901EF
 - expected_values:
-    JEEP_BAROMETRIC_P: 99.4
+    W4XE_BAROMETRIC_P: 99.4
   response: 7E80562010901F1
 - expected_values:
-    JEEP_BAROMETRIC_P: 99.6
+    W4XE_BAROMETRIC_P: 99.6
   response: 7E80562010901F2

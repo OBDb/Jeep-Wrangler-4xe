@@ -1,20 +1,17 @@
 command_id: 7E1.7E9.225043
 test_cases:
 - expected_values:
-    JEEP_ATF_T_7E1_2: 9
-    JEEP_ATF_T_7E1_V2: 9
+    W4XE_ATF_T_7E1: 9
   response: |-
     7E9100B625043314334
     7E9214A4A585000AAAA
 - expected_values:
-    JEEP_ATF_T_7E1_2: 11
-    JEEP_ATF_T_7E1_V2: 11
+    W4XE_ATF_T_7E1: 11
   response: |-
     7E9100B625043333835
     7E9210000000002AAAA
 - expected_values:
-    JEEP_ATF_T_7E1_2: 14
-    JEEP_ATF_T_7E1_V2: 14
+    W4XE_ATF_T_7E1: 14
   response: |-
     7E9100B62504336374E
     7E9215732353601AAAA

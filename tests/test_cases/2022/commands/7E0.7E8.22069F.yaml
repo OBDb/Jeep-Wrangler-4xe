@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22069F
 test_cases:
 - expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_T: 19
+    W4XE_VARIABLE_VLV_TIM_OIL_T: 19
   response: 7E80462069F53
 - expected_values:
-    JEEP_VARIABLE_VLV_TIM_OIL_T: 91
+    W4XE_VARIABLE_VLV_TIM_OIL_T: 91
   response: 7E80462069F9B

@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22114B
 test_cases:
 - expected_values:
-    JEEP_ACCEL_PEDAL_POS: 7.84314
+    W4XE_ACCEL_PEDAL_POS: 7.84314
   response: 7E80462114B14
 - expected_values:
-    JEEP_ACCEL_PEDAL_POS: 41.56863
+    W4XE_ACCEL_PEDAL_POS: 41.56863
   response: 7E80462114B6A

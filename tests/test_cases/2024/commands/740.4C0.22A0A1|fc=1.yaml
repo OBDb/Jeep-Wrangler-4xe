@@ -1,34 +1,34 @@
 command_id: 740.4C0.22A0A1|fc=1
 test_cases:
 - expected_values:
-    JEEP_TP_FL_AC: 34
-    JEEP_TP_FR_AC: 33
-    JEEP_TP_RL_AC: 34
-    JEEP_TP_RR_AC: 34
+    W4XE_TP_FL_AC: 34
+    W4XE_TP_FR_AC: 33
+    W4XE_TP_RL_AC: 34
+    W4XE_TP_RR_AC: 34
   response: |-
     4C0100962A0A1222122
     4C02122000FA1222122
 - expected_values:
-    JEEP_TP_FL_AC: 39
-    JEEP_TP_FR_AC: 38
-    JEEP_TP_RL_AC: 38
-    JEEP_TP_RR_AC: 38
+    W4XE_TP_FL_AC: 39
+    W4XE_TP_FR_AC: 38
+    W4XE_TP_RL_AC: 38
+    W4XE_TP_RR_AC: 38
   response: |-
     4C0100962A0A1272626
     4C02126000FA1272626
 - expected_values:
-    JEEP_TP_FL_AC: 39
-    JEEP_TP_FR_AC: 38
-    JEEP_TP_RL_AC: 38
-    JEEP_TP_RR_AC: 39
+    W4XE_TP_FL_AC: 39
+    W4XE_TP_FR_AC: 38
+    W4XE_TP_RL_AC: 38
+    W4XE_TP_RR_AC: 39
   response: |-
     4C0100962A0A1272627
     4C02126000FA1272627
 - expected_values:
-    JEEP_TP_FL_AC: 39
-    JEEP_TP_FR_AC: 39
-    JEEP_TP_RL_AC: 39
-    JEEP_TP_RR_AC: 39
+    W4XE_TP_FL_AC: 39
+    W4XE_TP_FR_AC: 39
+    W4XE_TP_RL_AC: 39
+    W4XE_TP_RR_AC: 39
   response: |-
     4C0100962A0A1272727
     4C02127000FA1272727
