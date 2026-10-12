@@ -149,6 +149,14 @@
   "signals": [
     {"id": "W4XE_MAP", "path": "Engine", "fmt": { "len": 16, "max": 13107, "div": 5, "unit": "kilopascal" }, "name": "Intake manifold air pressure"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "017A"}, "freq": 1,
+  "signals": [
+    {"id": "W4XE_SOOT_MASS_FLOW_EXH", "path": "Engine", "fmt": {"bix": 192, "len": 32, "max": 21474836, "min": -21474836, "div": 100, "sign": true, "unit": "unknown" }, "name": "Soot mass flow in exhaust gas after combustion"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "017B"}, "freq": 1,
+  "signals": [
+    {"id": "W4XE_P_PF", "path": "Engine", "fmt": {"bix": 160, "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Pressure in the particulate filter"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "017E"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "W4XE_EXH_T_EGR_COOLER_DN", "path": "Engine", "fmt": {           "len": 16, "max": 3003.56, "min": -3549.94, "div": 10, "add": -273.14, "sign": true, "unit": "celsius" }, "name": "Exhaust temperature, EGR cooler downstream"},
@@ -159,6 +167,10 @@
   "signals": [
     {"id": "W4XE_ENG_TEMEPRATURE", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273, "div": 10, "add": -273.14, "unit": "celsius" }, "name": "Engine temperature"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "01A0"}, "freq": 1,
+  "signals": [
+    {"id": "W4XE_DIFF_P_PF", "path": "Engine", "fmt": {"bix": 32, "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Differential pressure at particulate filter"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "01A9"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "W4XE_KNOCK_SENS_1", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 13107, "unit": "volts" }, "name": "Knock sensor 1"}
@@ -166,6 +178,10 @@
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "01AA"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "W4XE_KNOCK_SENS_2", "path": "Engine", "fmt": { "len": 16, "max": 5, "div": 13107, "unit": "volts" }, "name": "Knock sensor 2"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "01AE"}, "freq": 1,
+  "signals": [
+    {"id": "W4XE_SHORT_TERM_KNOCK", "path": "Engine", "fmt": { "len": 16, "max": 32767.5, "div": 2, "unit": "degrees" }, "name": "Short term knock retard"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "01E2"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
@@ -317,6 +333,18 @@
   "signals": [
     {"id": "W4XE_VGT_CMD_189F", "path": "Engine", "fmt": { "len": 8, "max": 98.9, "min": -100, "mul": 39, "div": 50, "add": -100, "unit": "percent" }, "name": "Variable geometry turbo actuator, commanded position"}
   ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "18DE"}, "freq": 5,
+  "signals": [
+    {"id": "W4XE_INLET_DPF_GAS_T", "path": "Engine", "fmt": { "len": 16, "max": 1245.0102, "min": -40, "mul": 0.019608, "add": -40, "unit": "celsius" }, "name": "Diesel particulate filter inlet gas temperature"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "18E2"}, "freq": 1,
+  "signals": [
+    {"id": "W4XE_DPF_DIFF_P", "path": "Engine", "fmt": { "len": 16, "max": -26214.5, "min": -32768, "div": 10, "add": -32768, "unit": "unknown" }, "name": "Diesel particulate filter differential pressure"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "18E4"}, "freq": 1,
+  "signals": [
+    {"id": "W4XE_DPF_SOOT_MASS", "path": "Engine", "fmt": { "len": 16, "max": 100, "mul": 763, "div": 50000, "unit": "percent" }, "name": "Diesel particulate filter soot mass"}
+  ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "18E7"}, "freq": 3600, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "W4XE_DPF_REGENS_18E7", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "scalar" }, "name": "Total number of started regenerations"}
@@ -332,6 +360,10 @@
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1F59"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
     {"id": "W4XE_WASTEGATE_POS_SENS", "path": "Engine", "fmt": { "len": 16, "max": 319.8107, "mul": 61, "div": 12500, "unit": "volts" }, "name": "Wastegate position sensor"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "2007"}, "freq": 3600,
+  "signals": [
+    {"id": "W4XE_ODO_LAST_OVERSPEED", "path": "Movement", "fmt": { "len": 24, "max": 1677721.5, "div": 10, "unit": "kilometers" }, "name": "Odometer at last overspeed recognition"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "04FE"}, "freq": 5, "dbgfilter": { "from": 2026 },
   "signals": [
