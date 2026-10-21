@@ -4,5 +4,10 @@ test_cases:
     W4XE_FLI_INPUT: 47.05882
   response: '7E80462022778'
 - expected_values:
+    W4XE_FLI_INPUT: 63.52941
+  response: |-
+    7E804620227A2
+    7E80562013B0404
+- expected_values:
     W4XE_FLI_INPUT: 75.68627
   response: 7E804620227C1
