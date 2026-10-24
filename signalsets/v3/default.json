@@ -111,7 +111,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"21": "D2"}, "freq": 5, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
-    {"id": "W4XE_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 191, "min": -64, "add": -64, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
+    {"id": "W4XE_EOT_21D2", "path": "Engine", "fmt": {"bix": 56, "len": 8, "max": 255, "unit": "scalar" }, "name": "Engine oil temperature, raw byte"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0109"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
@@ -169,7 +169,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0198"}, "freq": 1, "dbgfilter": { "to": 2021, "from": 2023 },
   "signals": [
-    {"id": "W4XE_ENG_TEMEPRATURE", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273, "div": 10, "add": -273.14, "unit": "celsius" }, "name": "Engine temperature"}
+    {"id": "W4XE_ENG_TEMEPRATURE", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273.14, "div": 10, "add": -273.14, "nullmin": -273.14, "unit": "celsius" }, "name": "Engine temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "01A0"}, "freq": 1,
   "signals": [
