@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.220198
 test_cases:
 - expected_values:
-    W4XE_ENG_TEMEPRATURE: -273
+    W4XE_ENG_TEMEPRATURE: null
   response: '7E8056201980000'
