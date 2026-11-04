@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220174
+test_cases:
+- expected_values:
+    W4XE_MAP: 99.6
+  response: 7E80562017401F2
+- expected_values:
+    W4XE_MAP: 99.8
+  response: 7E80562017401F3

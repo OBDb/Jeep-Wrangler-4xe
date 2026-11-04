@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220237
+test_cases:
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_4: 2.632
+  response: 7E80762023700000A48
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_4: 2.635
+  response: 7E80762023700000A4B
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_4: 2.638
+  response: 7E80762023700000A4E
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_4: 2.651
+  response: 7E80762023700000A5B
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_4: 2.66
+  response: 7E80762023700000A64
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_4: 2.673
+  response: 7E80762023700000A71
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_4: 2.675
+  response: 7E80762023700000A73

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221738
+test_cases:
+- expected_values:
+    W4XE_FR_WHL_SPD: 0
+  response: '7E8056217380000'
+- expected_values:
+    W4XE_FR_WHL_SPD: 0.5625
+  response: '7E8056217380024'
+- expected_values:
+    W4XE_FR_WHL_SPD: 2.95312
+  response: 7E80562173800BD
+- expected_values:
+    W4XE_FR_WHL_SPD: 4.21875
+  response: 7E805621738010E
+- expected_values:
+    W4XE_FR_WHL_SPD: 15.04688
+  response: 7E80562173803C3

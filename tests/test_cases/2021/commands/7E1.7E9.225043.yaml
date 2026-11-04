@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.225043
+test_cases:
+- expected_values:
+    W4XE_ATF_T_7E1: 9
+  response: |-
+    7E9100B625043314334
+    7E9214A4A585200AAAA
+- expected_values:
+    W4XE_ATF_T_7E1: 14
+  response: |-
+    7E9100B62504336334D
+    7E9215736323301AAAA
+- expected_values:
+    W4XE_ATF_T_7E1: 15
+  response: |-
+    7E9100B625043373830
+    7E9210000000002AAAA

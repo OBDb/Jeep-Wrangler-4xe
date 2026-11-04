@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22040F
+test_cases:
+- expected_values:
+    W4XE_FLI_7E0: 23.8896
+  response: 7E80562040F002A
+- expected_values:
+    W4XE_FLI_7E0: 77.9256
+  response: 7E80562040F0089

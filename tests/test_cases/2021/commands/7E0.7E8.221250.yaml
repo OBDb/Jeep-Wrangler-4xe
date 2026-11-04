@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221250
+test_cases:
+- expected_values:
+    W4XE_CHG_AIR_T: 88
+  response: 7E8046212505F
+- expected_values:
+    W4XE_CHG_AIR_T: 89.8
+  response: '7E80462125060'

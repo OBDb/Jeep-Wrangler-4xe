@@ -1,0 +1,22 @@
+command_id: 7E1.7E9.225034
+test_cases:
+- expected_values:
+    W4XE_MAIN_CYL_P: -40
+  response: |-
+    7E91008625034000000
+    7E9210000AAAAAAAAAA
+- expected_values:
+    W4XE_MAIN_CYL_P: -40
+  response: |-
+    7E91008625034000001
+    7E9213A00AAAAAAAAAA
+- expected_values:
+    W4XE_MAIN_CYL_P: -40
+  response: |-
+    7E91008625034000001
+    7E9214A00AAAAAAAAAA
+- expected_values:
+    W4XE_MAIN_CYL_P: -40
+  response: |-
+    7E91008625034000001
+    7E921D700AAAAAAAAAA

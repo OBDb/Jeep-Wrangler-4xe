@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221997
+test_cases:
+- expected_values:
+    W4XE_CMD_POWER: 0
+  response: '7E80462199700'
