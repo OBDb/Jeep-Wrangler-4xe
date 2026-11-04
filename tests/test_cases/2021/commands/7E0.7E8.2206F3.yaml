@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2206F3
+test_cases:
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.23
+  response: 7E8056206F34F06
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.267
+  response: 7E8056206F34F2B
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.305
+  response: 7E8056206F34F51
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.342
+  response: 7E8056206F34F76
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.38
+  response: 7E8056206F34F9C
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.418
+  response: 7E8056206F34FC2
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.455
+  response: 7E8056206F34FE7
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.493
+  response: 7E8056206F3500D
+- expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 20.53
+  response: 7E8056206F35032

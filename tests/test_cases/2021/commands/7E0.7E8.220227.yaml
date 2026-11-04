@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220227
+test_cases:
+- expected_values:
+    W4XE_FLI_INPUT: 74.11765
+  response: 7E804620227BD
+- expected_values:
+    W4XE_FLI_INPUT: 74.5098
+  response: 7E804620227BE

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22114B
+test_cases:
+- expected_values:
+    W4XE_ACCEL_PEDAL_POS: 7.84314
+  response: 7E80462114B14
+- expected_values:
+    W4XE_ACCEL_PEDAL_POS: 10.58824
+  response: 7E80462114B1B
+- expected_values:
+    W4XE_ACCEL_PEDAL_POS: 27.05882
+  response: 7E80462114B45
