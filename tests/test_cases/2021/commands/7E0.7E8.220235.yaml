@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     W4XE_INJ_WIDTH_CYL_2: 2.671
   response: 7E80762023500000A6F
+- expected_values:
+    W4XE_INJ_WIDTH_CYL_2: 29.27
+  response: '7E80762023500007256'

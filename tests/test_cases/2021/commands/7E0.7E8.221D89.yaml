@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     W4XE_FUEL_RAIL_P_TGT: 8.192
   response: 7E805621D892000
+- expected_values:
+    W4XE_FUEL_RAIL_P_TGT: 8.608
+  response: 7E805621D8921A0
