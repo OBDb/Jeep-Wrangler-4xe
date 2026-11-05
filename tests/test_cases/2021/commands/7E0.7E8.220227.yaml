@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     W4XE_FLI_INPUT: 74.5098
   response: 7E804620227BE
+- expected_values:
+    W4XE_FLI_INPUT: 74.90196
+  response: 7E804620227BF

@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2206F3
 test_cases:
 - expected_values:
+    W4XE_FUEL_RAIL_P_06F3: 0.56
+  response: 7E8056206F30230
+- expected_values:
     W4XE_FUEL_RAIL_P_06F3: 20.23
   response: 7E8056206F34F06
 - expected_values:

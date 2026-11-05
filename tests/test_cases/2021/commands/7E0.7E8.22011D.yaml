@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22011D
 test_cases:
 - expected_values:
+    W4XE_ECT: 16
+  response: 7E80462011D50
+- expected_values:
     W4XE_ECT: 53
   response: 7E80462011D75
 - expected_values:

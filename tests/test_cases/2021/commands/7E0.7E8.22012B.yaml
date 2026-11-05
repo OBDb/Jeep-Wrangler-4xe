@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.22012B
 test_cases:
 - expected_values:
+    W4XE_CAT_MODEL_T: 82
+  response: 7E80562012B0052
+- expected_values:
     W4XE_CAT_MODEL_T: 453
   response: 7E80562012B01C5
-- expected_values:
-    W4XE_CAT_MODEL_T: 456
-  response: 7E80562012B01C8
-- expected_values:
-    W4XE_CAT_MODEL_T: 460
-  response: 7E80562012B01CC
-- expected_values:
-    W4XE_CAT_MODEL_T: 464
-  response: 7E80562012B01D0
-- expected_values:
-    W4XE_CAT_MODEL_T: 467
-  response: 7E80562012B01D3
-- expected_values:
-    W4XE_CAT_MODEL_T: 471
-  response: 7E80562012B01D7
-- expected_values:
-    W4XE_CAT_MODEL_T: 474
-  response: 7E80562012B01DA
-- expected_values:
-    W4XE_CAT_MODEL_T: 478
-  response: 7E80562012B01DE
-- expected_values:
-    W4XE_CAT_MODEL_T: 482
-  response: 7E80562012B01E2
 - expected_values:
     W4XE_CAT_MODEL_T: 485
   response: 7E80562012B01E5
