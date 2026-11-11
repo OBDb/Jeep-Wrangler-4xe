@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     W4XE_BAROMETRIC_P: 99.6
   response: 7E80562010901F2
+- expected_values:
+    W4XE_BAROMETRIC_P: 102
+  response: 7E80562010901FE
