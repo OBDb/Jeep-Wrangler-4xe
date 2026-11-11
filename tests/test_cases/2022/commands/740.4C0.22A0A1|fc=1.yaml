@@ -17,14 +17,6 @@ test_cases:
     4C0100962A0A1202120
     4C02120000FA1202120
 - expected_values:
-    W4XE_TP_FL_AC: 37
-    W4XE_TP_FR_AC: 38
-    W4XE_TP_RL_AC: 37
-    W4XE_TP_RR_AC: 37
-  response: |-
-    4C0100962A0A1252625
-    4C02125000FA1252625
-- expected_values:
     W4XE_TP_FL_AC: 38
     W4XE_TP_FR_AC: 35
     W4XE_TP_RL_AC: 38
@@ -32,6 +24,14 @@ test_cases:
   response: |-
     4C0100962A0A1262327
     4C02126000EA1262327
+- expected_values:
+    W4XE_TP_FL_AC: 38
+    W4XE_TP_FR_AC: 40
+    W4XE_TP_RL_AC: 36
+    W4XE_TP_RR_AC: 38
+  response: |-
+    4C0100962A0A1262826
+    4C02124000FA1262826
 - expected_values:
     W4XE_TP_FL_AC: 39
     W4XE_TP_FR_AC: 37
