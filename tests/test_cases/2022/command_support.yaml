@@ -12,6 +12,7 @@ supported_commands_by_ecu:
   "7AB":
   - 7AB.52B.222802|fc=1:W4XE_GPS_HEADING,W4XE_GPS_SATS_TRACKED,W4XE_GPS_SATS_VISIBLE
   "7DF":
+  - 7DF.0105
   - 7DF.0106
   - 7DF.015B
   "7E0":
