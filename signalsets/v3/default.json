@@ -167,7 +167,7 @@
     {"id": "W4XE_EXH_T_DN_EXH",        "path": "Engine", "fmt": {"bix": 16, "len": 16, "max": 3003.56, "min": -3549.94, "div": 10, "add": -273.14, "sign": true, "unit": "celsius" }, "name": "Exhaust temperature, downstream of exhaust manifold"},
     {"id": "W4XE_EXH_T_UP_EXH",        "path": "Engine", "fmt": {"bix": 32, "len": 16, "max": 3003.56, "min": -3549.94, "div": 10, "add": -273.14, "sign": true, "unit": "celsius" }, "name": "Exhaust temperature, upstream of exhaust manifold"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0198"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0198"}, "freq": 1,
   "signals": [
     {"id": "W4XE_ENG_TEMEPRATURE", "path": "Engine", "fmt": { "len": 16, "max": 6280, "min": -273.14, "div": 10, "add": -273.14, "nullmin": -273.14, "unit": "celsius" }, "name": "Engine temperature"}
   ]},
