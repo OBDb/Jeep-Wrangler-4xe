@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.214D
+test_cases:
+- expected_values:
+    W4XE_SOOT_LOAD: 128.49219
+  response: "7E8 10 39 61 4D 3F 40 3F 40 \n7E8 21 01 22 F6 C0 00 00 00 \n7E8 22 00
+    00 0E 01 FE FE 41 \n7E8 23 FC 23 00 29 FF FA 00 \n7E8 24 00 00 00 02 00 02 00
+    \n7E8 25 00 53 00 29 01 C2 0E \n7E8 26 35 01 FA EF C2 FF FF \n7E8 27 03 01 00
+    00 00 FC 00 \n7E8 28 00 00 "

@@ -1,0 +1,11 @@
+command_id: 7E0.0111
+test_cases:
+- expected_values:
+    TP: 10.98039
+  response: '000 03 41 11 1C '
+- expected_values:
+    TP: 10.98039
+  response: 0000341111C
+- expected_values:
+    TP: 10.98039
+  response: 7E80341111C

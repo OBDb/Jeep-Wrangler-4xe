@@ -2,7 +2,17 @@ command_id: 7E0.0104
 test_cases:
 - expected_values:
     LOAD_PCT: 0
+  response: '7E8 03 41 04 00 '
+- expected_values:
+    LOAD_PCT: 0
+  response: "7E8 03 41 04 00 \n7EA 03 41 04 00 \n7EC 03 41 04 00 \n7E9 03 41 04 00
+    \n7EF 03 41 04 00 "
+- expected_values:
+    LOAD_PCT: 0
   response: '7E803410400'
 - expected_values:
     LOAD_PCT: 74.5098
   response: 7E8034104BE
+- expected_values:
+    LOAD_PCT: 0
+  response: '7EC 03 41 04 00 '
