@@ -70,7 +70,7 @@
     {"id": "W4XE_EXH_GAS_T_2_7E0", "path": "Engine", "fmt": {"bix": 288, "len": 16, "max": 32767, "div": 2, "unit": "fahrenheit" }, "name": "Exhaust gas temperature 2"},
     {"id": "W4XE_DPF_REGEN",       "path": "Engine", "fmt": {"bix": 383, "len": 1,  "max": 1,               "unit": "offon"      }, "name": "Diesel particulate filter regeneration"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "4D"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "4D"}, "freq": 1, "dbgfilter": { "years": [2023, 2024], "from": 2026 },
   "signals": [
     {"id": "W4XE_SOOT_LOAD", "path": "Engine", "fmt": {"bix": 8, "len": 16, "max": 511, "div": 128, "unit": "gravity" }, "name": "Soot load"}
   ]},
@@ -377,7 +377,7 @@
   "signals": [
     {"id": "W4XE_MAIN_CYL_P", "path": "Engine", "fmt": { "len": 16, "max": 6513, "min": -40, "div": 10, "add": -40, "unit": "bars" }, "name": "AT main cylinder pressure"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "5043"}, "freq": 5, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "5043"}, "freq": 5, "dbgfilter": { "years": [2023, 2024], "from": 2026 },
   "signals": [
     {"id": "W4XE_ATF_T_7E1", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature"}
   ]},
