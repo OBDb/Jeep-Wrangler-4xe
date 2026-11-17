@@ -1,0 +1,6 @@
+command_id: 7E0.010D
+test_cases:
+- expected_values:
+    VSS: 0
+  response: "7E8 03 41 0D 00 \n7EA 03 41 0D 00 \n7EC 03 41 0D 00 \n7E9 03 41 0D 00
+    \n7EF 03 41 0D 00 "

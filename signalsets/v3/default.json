@@ -90,7 +90,7 @@
     {"id": "W4XE_CHG_T",            "path": "Battery", "fmt": {"bix": 144, "len": 16, "max": 953,   "mul": 10, "div": 711,  "add": 32, "unit": "fahrenheit" }, "name": "Charge temperature"},
     {"id": "W4XE_CHG_P",            "path": "Battery", "fmt": {"bix": 160, "len": 16, "max": 296,              "div": 221,             "unit": "psi"        }, "name": "Charge pressure"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "B3"}, "freq": 0.25, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"21": "B3"}, "freq": 0.25, "dbgfilter": { "years": [2023, 2024], "from": 2026 },
   "signals": [
     {"id": "W4XE_RADIATOR_FAN_SPD", "path": "Movement", "fmt": {"bix": 80, "len": 8, "max": 132600, "mul": 520, "unit": "rpm" }, "name": "Radiator fan speed"}
   ]},
