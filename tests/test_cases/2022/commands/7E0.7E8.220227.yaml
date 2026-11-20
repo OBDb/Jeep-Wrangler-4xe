@@ -9,5 +9,5 @@ test_cases:
     7E804620227A2
     7E80562013B0404
 - expected_values:
-    W4XE_FLI_INPUT: 75.68627
-  response: 7E804620227C1
+    W4XE_FLI_INPUT: 76.07843
+  response: 7E804620227C2
